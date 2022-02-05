@@ -1,6 +1,6 @@
 # Portfolio
 1) Building the Portfolio on the top of HTML, CSS, Javascript.
-2) It talks about =>
+2) It talks about:
   2.1) Personal information.
   2.2) Career
   2.3) Education and
