@@ -204,7 +204,7 @@ nav {
     background: transparent;
     border: 0;
     cursor: pointer;
-    position: absolute;
+    position: absolute !important;
     right: 1em;
     top: 1em;
     z-index: 1000;
